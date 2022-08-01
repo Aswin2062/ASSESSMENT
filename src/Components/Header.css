@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding-left: 0%;
+}
+.contant {
+    display: flex;
+    margin: 5%;
+    padding-left: 15%;
+}
+.fix {
+    margin: 5%;
+}
+.head {
+    display: flex;
+    justify-content: space-around;
+    background-color: #b4a8b7;
+}
+.search {
+    margin-top: 1%;
+    padding-left: 80%;
+    background-color: rgb(142, 143, 149);
+}
